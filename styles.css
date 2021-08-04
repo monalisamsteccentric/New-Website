@@ -1,0 +1,7 @@
+body{background-color:pink;}
+hr{background-color: pink;
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 20px;
+width=20%;}
